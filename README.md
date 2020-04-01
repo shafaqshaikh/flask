@@ -12,9 +12,9 @@ run python app.py.
 
 
 Requirements:
-Flask 
-Sqlalchemy
-database:postgresql
+Flask ,
+Sqlalchemy ,
+database : postgresql
 
 
 
